@@ -1,3 +1,4 @@
 'use strict';
 
-console.log('Hello world');
+console.log('Hello Alap');
+console.log('I am enjoying JavaScript!');
